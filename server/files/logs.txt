@@ -1,0 +1,53 @@
+INFO	2023/02/24 06:26:00 server started
+INFO	2023/02/24 06:26:31 клиент установил соединение
+INFO	2023/02/24 06:26:35 get message from client: proverbs
+INFO	2023/02/24 06:26:38 Sent to client: Simple, Poetic, Pithy
+INFO	2023/02/24 06:26:39 клиент установил соединение
+INFO	2023/02/24 06:26:41 Sent to client: Make the zero value useful.
+INFO	2023/02/24 06:26:43 get message from client: proverbs
+INFO	2023/02/24 06:26:44 Sent to client: Make the zero value useful.
+INFO	2023/02/24 06:26:46 Sent to client: Make the zero value useful.
+INFO	2023/02/24 06:26:47 клиент установил соединение
+INFO	2023/02/24 06:26:47 Sent to client: Cgo must always be guarded with build tags.
+INFO	2023/02/24 06:26:49 Sent to client: Don't just check errors, handle them gracefully.
+INFO	2023/02/24 06:26:50 Sent to client: Don't panic.
+INFO	2023/02/24 06:26:50 get message from client: proverbs
+INFO	2023/02/24 06:26:52 Sent to client: Channels orchestrate; mutexes serialize.
+INFO	2023/02/24 06:26:53 Sent to client: The bigger the interface, the weaker the abstraction.
+INFO	2023/02/24 06:26:53 Sent to client: Don't just check errors, handle them gracefully.
+INFO	2023/02/24 06:26:55 Sent to client: Simple, Poetic, Pithy
+INFO	2023/02/24 06:26:56 Sent to client: Gofmt's style is no one's favorite, yet gofmt is everyone's favorite.
+INFO	2023/02/24 06:26:56 Sent to client: Gofmt's style is no one's favorite, yet gofmt is everyone's favorite.
+INFO	2023/02/24 06:26:58 Sent to client: Don't just check errors, handle them gracefully.
+INFO	2023/02/24 06:26:59 Sent to client: Reflection is never clear.
+INFO	2023/02/24 06:26:59 Sent to client: Concurrency is not parallelism.
+INFO	2023/02/24 06:27:01 Sent to client: Don't just check errors, handle them gracefully.
+INFO	2023/02/24 06:27:02 Sent to client: Documentation is for users.
+INFO	2023/02/24 06:27:02 Sent to client: Make the zero value useful.
+INFO	2023/02/24 06:27:04 Sent to client: Don't communicate by sharing memory, share memory by communicating.
+INFO	2023/02/24 06:27:05 Sent to client: Documentation is for users.
+INFO	2023/02/24 06:27:05 клиент завершил соединение
+INFO	2023/02/24 06:27:05 клиент установил соединение
+INFO	2023/02/24 06:27:05 get message from client: proverbs
+INFO	2023/02/24 06:27:05 Sent to client: Syscall must always be guarded with build tags.
+INFO	2023/02/24 06:27:07 Sent to client: A little copying is better than a little dependency.
+INFO	2023/02/24 06:27:08 Sent to client: Design the architecture, name the components, document the details.
+INFO	2023/02/24 06:27:08 Sent to client: Syscall must always be guarded with build tags.
+INFO	2023/02/24 06:27:10 Sent to client: Don't communicate by sharing memory, share memory by communicating.
+INFO	2023/02/24 06:27:11 Sent to client: Make the zero value useful.
+INFO	2023/02/24 06:27:11 Sent to client: Cgo must always be guarded with build tags.
+INFO	2023/02/24 06:27:13 Sent to client: The bigger the interface, the weaker the abstraction.
+INFO	2023/02/24 06:27:13 клиент завершил соединение
+INFO	2023/02/24 06:27:14 Sent to client: Clear is better than clever.
+INFO	2023/02/24 06:27:14 Sent to client: With the unsafe package there are no guarantees.
+INFO	2023/02/24 06:27:17 Sent to client: Gofmt's style is no one's favorite, yet gofmt is everyone's favorite.
+INFO	2023/02/24 06:27:17 Sent to client: The bigger the interface, the weaker the abstraction.
+INFO	2023/02/24 06:27:20 Sent to client: Cgo must always be guarded with build tags.
+INFO	2023/02/24 06:27:20 Sent to client: Cgo must always be guarded with build tags.
+INFO	2023/02/24 06:27:20 клиент завершил соединение
+INFO	2023/02/24 06:27:23 Sent to client: Gofmt's style is no one's favorite, yet gofmt is everyone's favorite.
+INFO	2023/02/24 06:27:26 Sent to client: Cgo must always be guarded with build tags.
+INFO	2023/02/24 06:27:29 Sent to client: Syscall must always be guarded with build tags.
+INFO	2023/02/24 06:27:32 Sent to client: With the unsafe package there are no guarantees.
+INFO	2023/02/24 06:27:35 Sent to client: Errors are values.
+INFO	2023/02/24 06:27:35 клиент завершил соединение
